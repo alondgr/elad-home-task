@@ -1,0 +1,29 @@
+.one {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+ul {
+  border: 2px solid green;
+  border-radius: 15px;
+  margin: 15px 5px 5px 35px;
+  background: lightblue;
+  list-style: none;
+  padding: 15px;
+}
+
+ul ul {
+  background: rgb(124, 196, 224);
+}
+
+ul ul ul {
+  background: rgb(184, 175, 204);
+}
+ul ul ul ul {
+  background: rgb(243, 162, 130);
+}
+
+.link {
+  color: rgb(18, 20, 165);
+}
